@@ -1,0 +1,16 @@
+C:\Users\Heloísa\source\repos\ProgVelhaGame\ProgVelhaGame\bin\Debug\net5.0\ProgVelhaGame.exe
+C:\Users\Heloísa\source\repos\ProgVelhaGame\ProgVelhaGame\bin\Debug\net5.0\ProgVelhaGame.deps.json
+C:\Users\Heloísa\source\repos\ProgVelhaGame\ProgVelhaGame\bin\Debug\net5.0\ProgVelhaGame.runtimeconfig.json
+C:\Users\Heloísa\source\repos\ProgVelhaGame\ProgVelhaGame\bin\Debug\net5.0\ProgVelhaGame.runtimeconfig.dev.json
+C:\Users\Heloísa\source\repos\ProgVelhaGame\ProgVelhaGame\bin\Debug\net5.0\ProgVelhaGame.dll
+C:\Users\Heloísa\source\repos\ProgVelhaGame\ProgVelhaGame\bin\Debug\net5.0\ProgVelhaGame.pdb
+C:\Users\Heloísa\source\repos\ProgVelhaGame\ProgVelhaGame\obj\Debug\net5.0\ProgVelhaGame.csproj.AssemblyReference.cache
+C:\Users\Heloísa\source\repos\ProgVelhaGame\ProgVelhaGame\obj\Debug\net5.0\ProgVelhaGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Heloísa\source\repos\ProgVelhaGame\ProgVelhaGame\obj\Debug\net5.0\ProgVelhaGame.AssemblyInfoInputs.cache
+C:\Users\Heloísa\source\repos\ProgVelhaGame\ProgVelhaGame\obj\Debug\net5.0\ProgVelhaGame.AssemblyInfo.cs
+C:\Users\Heloísa\source\repos\ProgVelhaGame\ProgVelhaGame\obj\Debug\net5.0\ProgVelhaGame.csproj.CoreCompileInputs.cache
+C:\Users\Heloísa\source\repos\ProgVelhaGame\ProgVelhaGame\obj\Debug\net5.0\ProgVelhaGame.dll
+C:\Users\Heloísa\source\repos\ProgVelhaGame\ProgVelhaGame\obj\Debug\net5.0\refint\ProgVelhaGame.dll
+C:\Users\Heloísa\source\repos\ProgVelhaGame\ProgVelhaGame\obj\Debug\net5.0\ProgVelhaGame.pdb
+C:\Users\Heloísa\source\repos\ProgVelhaGame\ProgVelhaGame\obj\Debug\net5.0\ProgVelhaGame.genruntimeconfig.cache
+C:\Users\Heloísa\source\repos\ProgVelhaGame\ProgVelhaGame\obj\Debug\net5.0\ref\ProgVelhaGame.dll
